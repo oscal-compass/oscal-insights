@@ -4,13 +4,13 @@ This repo comprises insights derived from OSCAL catalogs, profiles and component
 
 -----
 
-##### Graphs - links to OSCAL insights
+##### Graphs: links to OSCAL insights
 
 - OSCAL insights for [Acme](README.acme.md).
 
 -----
 
-##### Graphs - creation
+##### Graphs: creation
 
 To create the graphs:
 
