@@ -2,15 +2,17 @@
 
 This repo comprises insights derived from OSCAL catalogs, profiles and component definitions. 
 
-##### Links to OSCAL insights
+-----
 
-OSCAL insights for [Acme](README.acme.md).
+##### Graphs - links to OSCAL insights
+
+- OSCAL insights for [Acme](README.acme.md).
 
 -----
 
-##### Plots
+##### Graphs - creation
 
-To create the plots:
+To create the graphs:
 
 ```
 $ mkdir git.clone   
